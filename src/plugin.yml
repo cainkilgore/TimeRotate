@@ -1,0 +1,4 @@
+name: 'TimeRotate'
+author: Cain
+main: com.cainkilgore.timerotate.TimeRotate
+version: 1
